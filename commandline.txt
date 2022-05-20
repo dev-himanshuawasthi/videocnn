@@ -1,0 +1,1 @@
+python predict_video.py --model model/activity.model --label-bin model/lb.pickle --input sample_clips/person01_boxing_d1_uncomp.avi --output output/boxingframe.avi --size 128
